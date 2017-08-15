@@ -1,0 +1,10 @@
+1. 阅读 http://www.computervisionblog.com/2015/01/from-feature-descriptors-to-deep.html
+2. 用Google Vision API 实现人脸检测、面部情绪分析、图片OCR、色情图片检测(不满18岁可略过)；
+3. 配置运行py-faster-rcnn测试demo，修改实现用摄像头检测物体；
+4. 学完Andrew Ng的Machine Learning课程并拿到证书；
+5. 学完Convolution Neural Network (CS231n)的视频和课程讲义；
+6. 阅读Caffe代码，在Cifar10上训练alexnet模型，达到state-of-the-art精度；
+7. 精简2的代码，只保留必要代码放在github上开源；
+8. 阅读http://www.computervisionblog.com 的所有blog；
+9. 阅读http://karpathy.github.io 的所有blog；
+10. 复习linear algebra教材。
